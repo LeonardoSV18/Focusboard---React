@@ -2,9 +2,9 @@
 
 A clean, accessible task manager built with **React**, **JavaScript (ES6+)**, **HTML5** and **CSS3**. I built it to practice component-based design, state management with hooks, and responsive styling.
 
-**Live demo:** 
+**Live demo:** https://leonardosv18.github.io/Focusboard---React/ 
 
-(./screenshot.png)
+![FocusBoard screenshot](./screenshot.png) 
 
 ## Features
 
